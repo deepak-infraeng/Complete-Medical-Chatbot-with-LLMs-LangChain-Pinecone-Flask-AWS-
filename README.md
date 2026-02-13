@@ -1,1 +1,1 @@
- Build an end-to-end Medical Chatbot using Generative AI. We’ll walk through every component—from integrating Large Language Models (LLMs) to using LangChain, Pinecone for vector search, and deploying it with Flask!
+ Build an end-to-end Medical Chatbot using Generative AI. We’ll walk through every component—from integrating Large Language Models (LLMs) to using LangChain, Pinecone for vector search, and deploying it with Flask & AWS 
